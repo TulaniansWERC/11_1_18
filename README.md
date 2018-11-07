@@ -11,8 +11,11 @@ Users will require R and R studio, as well as an internet connection to use some
 ## Contents
 
 TURF_ggplot.Rproj : The R project file for this meeting. Open this file first.
+
 TURF_ggplot.R : This R script walks users through the process of generating a figure in ggplot, as well as some of the typical stumbling blocks that new users will encounter.
+
 TURF_ggplot.pptx : Power point slides used in the beginning of the meeting to introduce ggplot use and syntax.
+
 ggplot2-cheatsheet.pdf : A useful reference document for ggplot syntax.
 
 
