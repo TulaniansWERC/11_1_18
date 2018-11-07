@@ -8,6 +8,10 @@ This meeting introduced users to using the ggplot package for generating scienti
 
 Users will require R and R studio, as well as an internet connection to use some of the commands in the guide.
 
+To use the slack channel (optional), users will require a slack account registered to a Tulane email address, as well as an invitation to the channel.
+
+R packages : "ggplot", "slackr" (optional)
+
 ## Contents
 
 TURF_ggplot.Rproj : The R project file for this meeting. Open this file first.
