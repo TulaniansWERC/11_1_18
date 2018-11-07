@@ -25,4 +25,4 @@ Download this entire folder and extract the contents on your home computer.
 
 If you have never used ggplot before, we encourage you to review the included powerpoint slides before opening the project file.
 
-In this session, we used a slack workspace to share files and code during the meeting. The attached r script contains some instructions for connecting your R workspace to slack. This is not necessary for the use of ggplot, but you would like to connect to the TURF slack group please contact Willi (wwilber@tulane.edu).
+In this session, we used a slack workspace to share files and code during the meeting. The attached r script contains some instructions for connecting your R workspace to slack. This is not necessary for the use of ggplot, but if you would like to connect to the TURF slack group please contact Willi (wwilber@tulane.edu).
