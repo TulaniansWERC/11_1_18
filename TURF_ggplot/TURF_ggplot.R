@@ -23,7 +23,7 @@ library(slackr)
 # slackr_users	Get a data frame of Slack users
 # text_slackr	Sends basic text to a slack channel. Calls the...
 
-slackr_setup(username = "willi", api_token = "xoxp-464147944704-465561497989-469910342210-8483de772e6b29fd3c7e0188c09df28e", channel = "#ggplotworkshop", incoming_webhook_url = "https://hooks.slack.com/services/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")
+slackr_setup(username = "enter your username", api_token = "enter your slack api token here", channel = "#ggplotworkshop", incoming_webhook_url = "https://hooks.slack.com/services/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")
 
 #On with the code, going on with the code, come on baby, no, no, no...  (anyone know this reference?)
 
